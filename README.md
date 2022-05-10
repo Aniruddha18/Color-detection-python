@@ -1,7 +1,5 @@
 # Image-Color-detection-python
-The application will let you identify the colors from the image.
-
-## Double Click the image to check the colour.
+The application will let you identify the colors from the image.Double Click the image to check the colour.
 
 ## For sampleimg.jpg
 ![Screenshot (2)](https://user-images.githubusercontent.com/23741325/167631733-694e62de-1f12-43c8-a191-3e2270188660.png)
